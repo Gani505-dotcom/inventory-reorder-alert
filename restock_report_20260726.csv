@@ -1,0 +1,7 @@
+Item Name,Current Quantity,Threshold,Status,Priority,Suggested Reorder Quantity
+Gadget B,12,20,LOW STOCK,Low,18
+Tool C,5,25,LOW STOCK,Critical,32
+Part D,0,15,OUT OF STOCK,Critical,30
+Material E,80,100,LOW STOCK,Low,70
+Component F,3,10,LOW STOCK,Low,12
+Product G,45,50,LOW STOCK,Low,30
